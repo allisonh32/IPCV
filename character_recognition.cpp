@@ -1,3 +1,5 @@
+//Author Allison Hazebrouck
+
 #include <ctime>
 #include <iostream>
 
